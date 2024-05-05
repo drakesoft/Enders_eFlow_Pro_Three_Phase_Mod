@@ -1,7 +1,7 @@
 # Enders_eFlow_Pro_Three_Phase_Mod
 I have modified my Enders eFlow Pro to use "Turbo Zone" without disable left heater. Now it is able to heat with 4500W instead of 3000W.
-In original state the issue is that a Schuko Plug can't handle more than 3600W and if the heater is cold it draws that power from net. That is the reason why the left heater must disabled if you whant use "Turbo Zone".
-So the solution is to use a larger CEE Plug, it can handle 16A per phase. 
+In original state the issue is that a Schuko Plug can't handle more than 3600W and if the heater is cold it draws that power from net. That is the reason why the left heater must disabled if you whant use "Turbo Zone". 
+So the solution is to use a larger CEE Plug, it can handle 16A per phase.  After this mod the "Turbo Zone" can not be turned off with main switch. The turbo zone button switches directly the mains power for the heater.
 If someone copies this, it is at your own risk. I do not accept any liability.
 
 
