@@ -11,6 +11,7 @@ Parts what you need for the Mod:
 - 3 pcs flat receptacle 2.5 mm²
 - 1 pc ring cable lug M4 2.5 mm²
 - 7 pcs cable end sleeves for 2.5 mm²
+- clamp for 2.5 mm²
 - shrink tubing
 
 
